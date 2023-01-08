@@ -4,15 +4,15 @@ title: publications
 permalink: /publications/
 ---
 
-I also (try to) maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr2oZYAAAAJ) page.
+I also maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr2oZYAAAAJ) page.
 
 1. **[Randomised Composition and Small-Bias Minimax](https://eccc.weizmann.ac.il/report/2022/112/)**  
    _with Shalev Ben-David, Eric Blais and Mika Göös_  
-   To appear at Foundations of Computer Science (FOCS) 2022
+   [Conference version](https://www.computer.org/csdl/proceedings-article/focs/2022/551900a624/1JtvLg7Yvba): Foundations of Computer Science (FOCS) 2022
 
 2. **[Separations in Proof Complexity and TFNP](https://eccc.weizmann.ac.il/report/2022/058/)**  
    _with Mika Göös, Alexandros Hollender, Siddhartha Jain, William Pires, Robert Robere and Ran Tao_  
-   To appear at Foundations of Computer Science (FOCS) 2022
+   [Conference version](https://www.computer.org/csdl/proceedings-article/focs/2022/551900b150/1JtvOxb852w): Foundations of Computer Science (FOCS) 2022
 
 3. **[Further Collapses in TFNP](https://eccc.weizmann.ac.il/report/2022/018/)**  
    _with Mika Göös, Alexandros Hollender, Siddhartha Jain, William Pires, Robert Robere and Ran Tao_   
