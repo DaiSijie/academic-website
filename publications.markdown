@@ -8,7 +8,7 @@ I also maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr
 
 1. **[One-Way Functions vs. TFNP: Simpler and Improved](https://eprint.iacr.org/2023/945)**  
    _with Lukáš Folwarczný, Mika Göös, Pavel Hubáček and Weiqiang Yuan_  
-   In submission
+   [Conference version](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.50): Innovations in Theoretical Computer Science Conference (ITCS) 2024
 
 2. **[Randomised Composition and Small-Bias Minimax](https://eccc.weizmann.ac.il/report/2022/112/)**  
    _with Shalev Ben-David, Eric Blais and Mika Göös_  
