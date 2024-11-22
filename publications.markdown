@@ -6,6 +6,10 @@ permalink: /publications/
 
 I also maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr2oZYAAAAJ) page.
 
+1. **[Supercritical Tradeoffs for Monotone Circuits](https://arxiv.org/abs/2411.14268)**  
+   _with Mika Göös, Kilian Risse and Dmitry Sokolov_  
+   In submission
+
 1. **[The Complexity of Two-Team Polymatrix Games with Independent Adversaries](https://arxiv.org/abs/2409.07398)**  
    _with Alexandros Hollender and Sai Ganesh Nagarajan_  
    In submission
