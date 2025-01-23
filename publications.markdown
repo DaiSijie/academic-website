@@ -17,7 +17,7 @@ I also maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr
 
 3. **[The Complexity of Two-Team Polymatrix Games with Independent Adversaries](https://arxiv.org/abs/2409.07398)**  
    _with Alexandros Hollender and Sai Ganesh Nagarajan_  
-   In submission
+   Conference version: International Conference on Learning Representations (ICLR) 2025
 
 4. **[One-Way Functions vs. TFNP: Simpler and Improved](https://eprint.iacr.org/2023/945)**  
    _with Lukáš Folwarczný, Mika Göös, Pavel Hubáček and Weiqiang Yuan_  
