@@ -7,17 +7,21 @@ permalink: /publications/
 I also maintain a [Google Scholar](https://scholar.google.com/citations?user=zDr2oZYAAAAJ) page.  
 <small>\*In my field, authors are ordered alphabetically.</small>
 
-1. **[Direct Sums for Parity Decision Trees](https://arxiv.org/abs/2412.06552)**  
-   _with Tyler Besselman, Mika Göös, Siyao Guo and Weiqiang Yuan_  
-   In submission
+1. **[Generalised Linial-Nisan Conjecture is False for DNFs](https://eccc.weizmann.ac.il/report/2025/058/)**  
+   _with Yaroslav Alekseev, Mika Göös, Ziyi Guan, Artur Riazanov, Dmitry Sokolov and Weiqiang Yuan_  
+   To appear at Computational Complexity Conference (CCC) 2025
 
-2. **[Supercritical Tradeoffs for Monotone Circuits](https://arxiv.org/abs/2411.14268)**  
+2. **[Direct Sums for Parity Decision Trees](https://arxiv.org/abs/2412.06552)**  
+   _with Tyler Besselman, Mika Göös, Siyao Guo and Weiqiang Yuan_  
+   To appear at Computational Complexity Conference (CCC) 2025
+
+3. **[Supercritical Tradeoffs for Monotone Circuits](https://arxiv.org/abs/2411.14268)**  
    _with Mika Göös, Kilian Risse and Dmitry Sokolov_  
    To appear at Symposium on Theory of Computing (STOC) 2025
 
-3. **[The Complexity of Two-Team Polymatrix Games with Independent Adversaries](https://arxiv.org/abs/2409.07398)**  
+4. **[The Complexity of Two-Team Polymatrix Games with Independent Adversaries](https://arxiv.org/abs/2409.07398)**  
    _with Alexandros Hollender and Sai Ganesh Nagarajan_  
-   To appear at International Conference on Learning Representations (ICLR) 2025  
+   Conference version: International Conference on Learning Representations (ICLR) 2025  
    <span style="color:red">Selected as **Oral** presentation (top 1.8% papers at ICLR) </span>  
 
 5. **[One-Way Functions vs. TFNP: Simpler and Improved](https://eprint.iacr.org/2023/945)**  
