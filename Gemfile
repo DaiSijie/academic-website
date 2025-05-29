@@ -6,6 +6,8 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
+# below added by gmaystre
+ruby File.read(".ruby-version").strip
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -30,3 +32,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "base64", "~> 0.2.0"
+
+gem "bigdecimal", "~> 3.1"
