@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Hi, I'm Gilbert**, Senior Member of Technical Staff at Oracle in Zürich where I work on **database systems** with emphasis on **vector indexes**. 
+**Hi, I'm Gilbert**, Senior Member of Technical Staff at Oracle in Zürich where I work on **database management systems** with emphasis on **vector indexes**. 
 
 Before that, I obtained my PhD at EPFL under the supervision of Prof. [Mika Göös](https://theory.epfl.ch/mika/) in the area of theoretical computer science, more specifically **complexity** and **algorithms**.
 
